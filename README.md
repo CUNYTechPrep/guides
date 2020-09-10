@@ -14,3 +14,7 @@ Coming Soon:
 - Command Line Basics
 - Postgresql
 - VirtualBox
+
+## Contributing
+
+If you find a mistake or typo or would like to make an improvement, please open an issue or pull request and we'll review and update. 
