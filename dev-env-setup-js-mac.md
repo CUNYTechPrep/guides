@@ -27,7 +27,7 @@ Install [Homebrew](https://brew.sh/) with the following command:
 ```
 brew install curl git node
 brew tap "homebrew/cask"
-brew cask install visual-studio-code postman postico
+brew install --cask visual-studio-code postman postico
 ```
 
 ## Run VS Code
