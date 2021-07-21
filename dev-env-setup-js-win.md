@@ -5,7 +5,7 @@ _Full Stack Web Development Track_
 Download and Install the following applications:
 
 - **Git** 64bit Windows setup (https://git-scm.com/download/win)
-- **Node.js** v12 64bit (https://nodejs.org/en/download/)
+- **Node.js (LTS version)** version 14 (64bit) (https://nodejs.org/en/download/)
 - **VS Code** 64bit (https://code.visualstudio.com/)
 - **Postman** (https://www.postman.com/downloads/)
 
