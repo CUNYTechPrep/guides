@@ -25,7 +25,7 @@ Install [Homebrew](https://brew.sh/) with the following command:
 ## Install development applications with `brew`
 
 ```
-brew install curl git node
+brew install curl git node@14
 brew tap "homebrew/cask"
 brew install --cask visual-studio-code postman postico
 ```
