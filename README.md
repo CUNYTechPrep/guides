@@ -18,6 +18,13 @@
 
 [How to use create users and databases](pg-create-user-db.md)
 
+### Additional resources
+
+* [Postgres Guide](http://postgresguide.com/)
+* [How to install and use Postgresql on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04)
+* [How to install Postgresql on the Mac](https://flaviocopes.com/postgres-how-to-install/)
+
+
 ## Guides for dev tools
 
 Coming Soon:
