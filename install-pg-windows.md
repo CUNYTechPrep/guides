@@ -6,6 +6,10 @@ There is an interactive installer for windows that will walk you through install
 
 Download the installer here: https://www.postgresql.org/download/windows/
 
+- At this time (October 2022) version 14 is recommended
+- Do not install version 15 for CTP projects
+- Any version 10-14 should be OK if you already have it pre-installed
+
 ## Installation and setup
 
 > **IMPORTANT:** During installation and setup you will be prompted to create multiple new passwords for Postgres itself, for pgAdmin, and for postgres users. Make sure to save these passwords as they will be necessary for you to use Postgres.
