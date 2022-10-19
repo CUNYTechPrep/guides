@@ -18,7 +18,7 @@
 
 [How to create users and databases with the command line](pg-create-user-db.md)
 
-[How to use create users and databases with pgAdmin](pgAdmin-create-user-db.md)
+[How to create users and databases with pgAdmin](pgAdmin-create-user-db.md)
 
 ### Additional resources
 
