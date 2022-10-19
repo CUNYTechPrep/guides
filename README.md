@@ -8,7 +8,7 @@
 
 ## PostgreSQL
 
-[Postgres](https://www.postgresql.org/) is a widely used and open source relational database. The applications we develop in this program make use of the postgres database.
+[PostgreSQL](https://www.postgresql.org/) is a widely used and open source relational database. The applications we develop in this program make use of the PostgreSQL database.
 
 [Install on a Mac](install-pg-mac.md)
 
@@ -16,13 +16,15 @@
 
 [Install on Linux (Ubuntu)](install-pg-ubuntu.md)
 
-[How to use create users and databases](pg-create-user-db.md)
+[How to create users and databases with the command line](pg-create-user-db.md)
+
+[How to use create users and databases with pgAdmin](pgAdmin-create-user-db.md)
 
 ### Additional resources
 
 * [Postgres Guide](http://postgresguide.com/)
-* [How to install and use Postgresql on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04)
-* [How to install Postgresql on the Mac](https://flaviocopes.com/postgres-how-to-install/)
+* [How to install and use PostgreSQL on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04)
+* [How to install PostgreSQL on the Mac](https://flaviocopes.com/postgres-how-to-install/)
 
 
 ## Guides for dev tools

@@ -2,7 +2,7 @@
 
 ## Installing with Homebrew
 
-The easiest way to install postgres on the Mac is using Homebrew with the following commands:
+The easiest way to install PostgreSQL on the Mac is using Homebrew with the following commands:
 
 ```
 brew update
@@ -11,7 +11,7 @@ brew install postgresql@14
 
 ### Starting up the server
 
-After installing postgres, you need to turn it on before you can begin using it. There are a few ways to do that, but the easiest is using the homebrew services manager. You can set that up as follows:
+After installing PostgreSQL, you need to turn it on before you can begin using it. There are a few ways to do that, but the easiest is using the homebrew services manager. You can set that up as follows:
 
 First, install brew services if you don't already have it installed:
 
@@ -19,7 +19,7 @@ First, install brew services if you don't already have it installed:
 brew tap homebrew/services
 ```
 
-Next, ensure that the postgres server is started with the following command.
+Next, ensure that the PostgreSQL server is started with the following command.
 
 ```
 brew services start postgresql
@@ -27,7 +27,7 @@ brew services start postgresql
 
 ## Other helpful commands to know
 
-You can start, stop, or restart the postgres server with the following commands:
+You can start, stop, or restart the PostgreSQL server with the following commands:
 
 For starting it up:
 

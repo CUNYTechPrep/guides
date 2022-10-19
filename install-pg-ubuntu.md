@@ -2,7 +2,7 @@
 
 ## Installing on Ubuntu 20.04
 
-On Ubuntu 20.04 you can install postgres with the following commands:
+On Ubuntu 20.04 you can install PostgreSQL with the following commands:
 
 ```
 $ sudo apt update
@@ -11,7 +11,7 @@ $ sudo apt install postgresql postgresql-contrib
 
 ### Setup your linux user as a DB user
 
-On Ubuntu, you *may* have to make a postgresql user that matches your Ubuntu username.
+On Ubuntu, you *may* have to make a PostgreSQL user that matches your Ubuntu username.
 
 Run these commands **ONCE** (replace `UBUNTU_USERNAME` with your own username):
 
